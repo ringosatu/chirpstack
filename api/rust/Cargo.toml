@@ -16,7 +16,7 @@
 
 [dependencies]
   prost = "0.13"
-  prost-types = "0.13"
+  prost-types = "0.14"
   hex = "0.4"
   rand = "0.9"
   tonic = { version = "0.13", features = [
