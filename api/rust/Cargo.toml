@@ -4,7 +4,7 @@
   version = "4.13.0"
   authors = ["Orne Brocaar <info@brocaar.com>"]
   license = "MIT"
-  #homepage = "https://www.chirpstack.io"
+  homepage = "https://www.chirpstack.io"
   repository = "https://github.com/ringosatu/chirpstack"
   edition = "2021"
 
