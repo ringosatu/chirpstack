@@ -256,7 +256,7 @@ pub fn run() {
   #
   # The custom ADR plugin must be implemented in JavaScript. For an example
   # skeleton, please see:
-  # https://github.com/chirpstack/chirpstack/blob/master/examples/adr_plugins/plugin_skeleton.js
+  # https://github.com/ringosatu/chirpstack/blob/master/examples/adr_plugins/plugin_skeleton.js
   adr_plugins=[
     {{#each network.adr_plugins}}
     "{{this}}",
